@@ -4,4 +4,3 @@ instance_type = "t2.micro"
 key_name      = "devops"
 domain_name   = "arunsankar.online"
 hostname      = "cafe"
-
