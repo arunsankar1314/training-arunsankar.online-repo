@@ -1,4 +1,4 @@
-application_repository = "https://github.com/Fujikomalan/trainingdevops.cloud-repository"
+application_repository = "https://github.com/arunsankar1314/training-arunsankar.online-repo"
 project_name           = "trainingdevops"
 project_env            = "production"
 ami                    = "ami-0cc9838aa7ab1dce7"
